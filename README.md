@@ -1,12 +1,13 @@
 # Welcome to my profile
 
-Hello, I'm Bruna Delmanto
+Hello, I'm Bruna Delmanto, I have an agile profile, I accept challenges and I like to be always in development.
 
 ## My hobbies
 
 - Travel the world
 - Watch sci-fi series
 - Listen to music
+- Study quantum mechanics
 
 ## Currently studying
 
