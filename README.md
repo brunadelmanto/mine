@@ -1,27 +1,44 @@
-# Welcome to my profile
+# Welcome to My Profile :heavy_heart_exclamation:
 
-Hello, I'm Bruna Delmanto, I have an agile profile, I accept challenges and I like to be always in development.
+Hello! My name is Bruna, I'm a Brazilian Bachelor's degree student in Information Technology, 28 years old. 
 
-## My hobbies
+My current goal is to start my career as a **back-end developer** in the technology field.
 
-- Travel the world
-- Watch sci-fi series
-- Listen to music
-- Study quantum mechanics
 
-## Currently studying
 
-- C
+### As a Professional :raised_hands:
+
+I'm known for my professionalism, agility, proactivity, commitment, and self-motivation. 
+
+I've been working in digital performance-focused marketing for the last few years, where I've developed skills in communication and teamwork. However, my passion for technology and efficiency led me to seek new challenges and become a back-end developer.
+
+
+
+### Technical Skills :computer:
+
 - JAVA
-- JavaScript
-- HTML
-- CSS
-- CS50 Harvard
-- And more
 
-## Meus contatos
+- Python
+
+- Git
+
+- HTML
+
+- CSS
+
+  
+
+### Contacts :email:
 
 - E-mail brunadelmanto@gmail.com
+- LinkedIn https://www.linkedin.com/in/brunadelmanto
 - GitHub @brunadelmanto
 - Instagram @brunadelmanto
-- LinkedIn https://www.linkedin.com/in/bruna-c-delmanto-sim%C3%B5es-b01146189/
+
+
+
+I'm excited to contribute my experience and passion for technology to a company that values professional development and provides a challenging and collaborative work environment.
+
+
+
+#### Thanks for reading! :blue_heart:
