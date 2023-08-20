@@ -22,6 +22,8 @@ I've been working in digital performance-focused marketing for the last few year
 
 - Git
 
+- JavaScript
+
 - HTML
 
 - CSS
